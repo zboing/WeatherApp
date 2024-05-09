@@ -1,4 +1,4 @@
-package com.test.test
+package com.weather.alerts
 
 import org.junit.Test
 
